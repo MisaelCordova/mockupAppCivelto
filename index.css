@@ -61,6 +61,8 @@ label{
 .content{
     display:flex;
     flex-direction: row;
+    align-items:center;
+    
     
 }
 .content div {
@@ -164,4 +166,6 @@ label{
 .desclist{
     width:120px;
 }
-
+.agrupamento{
+    border-bottom: 1px solid #92949c;
+}

@@ -1,4 +1,5 @@
 let modal = document.getElementById("myModal");
+
 let btn = document.getElementById("btnModal");
 
 btn.onclick = function () {
