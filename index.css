@@ -169,3 +169,13 @@ label{
 .agrupamento{
     border-bottom: 1px solid #92949c;
 }
+.gCilindro{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 4px solid #b0b3c2 ;
+    border-left: 4px solid #b0b3c2 ;
+    border-right: 4px solid #b0b3c2 ;
+}
+.nCilindro{
+    background-color:#b0b3c2  ;
+}
