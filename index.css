@@ -7,8 +7,6 @@ header{
 }
 main{
    /* overflow-x: hidden;*/
-}
-#cabecalho{
     text-align:center;
     font-weight:100;
 }
@@ -103,7 +101,7 @@ label{
     display:flex;
    
 }
-.btnModal{
+.estilobtnModal{
     display:flex;
     height:50px;
     width:100%;
@@ -178,4 +176,28 @@ label{
 }
 .nCilindro{
     background-color:#b0b3c2  ;
+}
+.descGrande{
+    display: flex;
+    
+}
+.linha{
+    display:flex;
+    flex-direction: row;
+   
+}
+.linha div {
+    display:flex;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+   
+}
+textarea{
+    width: 100%;
+}
+.itencenter{
+    width: 100%!important;
 }
